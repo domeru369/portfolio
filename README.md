@@ -1,9 +1,11 @@
 # Data Analyst
 
 #### Technical Skills: Spreadsheets, R, SQL, Tableau, Power Bi, Python
+
 #### Professional Skills: Detail Oriented, Communication skills, Strong Problem Solving skills, Presentation Skills, Organizational skills, Report Writing, Research, Team spirit
 
-### Education
+
+## Education
 **Bachelor of Science Economics, September 2016 - June 2020**
                             
   Babcock University, Ogun State.
@@ -19,7 +21,7 @@
   Google
 
 
-### Professional Experiences  
+## Professional Experiences  
  **Accenture North America Data Analytics and Visualization Job Simulation on Forage, January 2024**
 
 * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
@@ -35,22 +37,24 @@
 * Coordinate meetings, appointments, and travel arrangements for commercial department staff.
 
 
-### Projects 
-**Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?**
+## Projects 
+### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
 
 [Bellabeat case study](https://github.com/domeru369/Bellabeat-case-study)
 
 This case study was from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Using **R**, I analyzed user data specifically focused on fitness metrics collected through Fitbit fitness tracker dataset(a similarfitness company) in order to gain and translate insights into actionable marketing strategies for Bellabeat.
 
 
-**Cyclistic bike share case study - How does a bike-share navigate speedy success?**
+
+### Cyclistic bike share case study - How does a bike-share navigate speedy success?
 
 [Cyclistic bike share case study](https://github.com/domeru369/cyclistic-bike-share-case-study)
 
 This case study was from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago.  I used **BigQuery** to analyze the cyclistic bike share historical data from Jan-Dec 2020 to understand usage patterns and motivations of both casual riders and annual members in order to develop effective marketing strategies focused on converting casual riders into annual members.
 
 
-**Salifort motors project**
+
+### Salifort motors project
 
 [Salifort motors project](https://github.com/domeru369/Salifort-motors-project)
 
