@@ -42,7 +42,7 @@
 ## Projects 
 * ### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
 
-![image](https://github.com/domeru369/portfolio/blob/main/assets/img/fitness.jpg)
+![image](/assets/img/fitness.jpg)
 
 [Bellabeat case study](https://github.com/domeru369/Bellabeat-case-study)
 
@@ -52,7 +52,7 @@ This case study was from the google data analytics capstone course. I assumed th
 
 * ### Cyclistic bike share case study - How does a bike-share navigate speedy success?
 
-![image](https://github.com/domeru369/portfolio/blob/main/assets/img/cyclist.jpg)
+![image](/assets/img/cyclist.jpg)
 
 [Cyclistic bike share case study](https://github.com/domeru369/cyclistic-bike-share-case-study)
 
@@ -62,9 +62,19 @@ This case study was from the google data analytics capstone course. I assumed th
 
 * ### Salifort motors project
 
-![image](https://github.com/domeru369/portfolio/blob/main/assets/img/motors.png)
+![image](/assets/img/motors.png)
 
 [Salifort motors project](https://github.com/domeru369/Salifort-motors-project)
 
 This project was from the advanced google data analytics capstone course.The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company.
 
+
+
+### Contact Information
+Mobile Number: +2348152385121 or +2347066273208
+
+Email address: amandaegega1@gmail.com
+
+Linkedln: [link](https://www.linkedin.com/in/amanda-egega-04bb8220a/)
+
+Github: [link](https://github.com/domeru369)
