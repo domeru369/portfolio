@@ -14,7 +14,7 @@
 
 
   
-### Certifications
+## Certifications
 * Google Advanced Data Analytics Professional Certificate, November 2023 - March 2024
   
   Google
