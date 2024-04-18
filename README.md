@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Spreadsheets, R, SQL, Tableau, Power Bi, Python
+#### Technical Skills: Spreadsheets, R, SQL, Python, Visualization tools(Tableau, Power Bi)
 
 #### Professional Skills: Attention to detail, Effective Communication skills, Strong Problem Solving skills, Presentation Skills, Organizational skills, Research, Team spirit
 
@@ -60,7 +60,7 @@ This case study was from the google data analytics capstone course. I assumed th
 [Cyclistic bike share case study](https://github.com/domeru369/cyclistic-bike-share-case-study)
 
 This case study was from the google data analytics capstone course. Cyclistic is a bike-share company in Chicago. The director of marketing believes the company’s future success
-depends on maximizing the number of annual memberships.  I used **BigQuery** to analyze the cyclistic bike share historical data from Jan-Dec 2020 to understand usage patterns and motivations of both casual riders and annual members in order to develop effective marketing strategies focused on converting casual riders into annual members.
+depends on maximizing the number of annual memberships.  I used **BigQuery** to analyze the cyclistic bike share historical data from Jan-Dec 2020 to understand usage patterns and motivations of both casual riders and annual members in order to develop effective marketing strategies focused on converting casual riders into annual members. I created **visualizations** [here](https://public.tableau.com/app/profile/amanda.egega/viz/Bikesharevisualization/bikesharestory#1)
 
 
 
@@ -70,7 +70,14 @@ depends on maximizing the number of annual memberships.  I used **BigQuery** to 
 
 [Salifort motors project](https://github.com/domeru369/Salifort-motors-project)
 
-This project was from the advanced google data analytics capstone course. The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company. I built regression model, decision tree model, random forest model and the xgboost model. The random forest model emerged as the champion model.
+This project was from the advanced google data analytics capstone course. The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company(**Predictive Modelling**). I built regression model, decision tree model, random forest model and the xgboost model. The random forest model emerged as the champion model.
+
+
+* ### Data Visualization
+  
+![image](/assets/img/data%20viz.jpg)
+
+Data visualization is a powerful way for me to display data so that it can be interpreted easily. I love playing around in Tableau! Check out my vizzes [here](https://public.tableau.com/app/profile/amanda.egega/vizzes)
 
 
 
