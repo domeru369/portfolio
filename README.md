@@ -11,8 +11,10 @@
   Babcock University, Ogun State.
 
   Second Class Upper – 4.19
-  
 
+
+  
+### Certifications
 * Google Advanced Data Analytics Professional Certificate, November 2023 - March 2024
   
   Google
@@ -21,6 +23,7 @@
 * Google Data Analytics Professional Certificate, January 2024 - April 2024
 
   Google
+
 
 
 ## Professional Experiences  
