@@ -43,6 +43,7 @@
 ### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
 
 ![image](https://github.com/domeru369/portfolio/blob/main/img/fitness.jpg)
+
 [Bellabeat case study](https://github.com/domeru369/Bellabeat-case-study)
 
 This case study was from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Using **R**, I analyzed user data specifically focused on fitness metrics collected through Fitbit fitness tracker dataset(a similarfitness company) in order to gain and translate insights into actionable marketing strategies for Bellabeat.
@@ -51,6 +52,8 @@ This case study was from the google data analytics capstone course. I assumed th
 
 ### Cyclistic bike share case study - How does a bike-share navigate speedy success?
 
+![image](https://github.com/domeru369/portfolio/blob/main/img/cyclist.jpg)
+
 [Cyclistic bike share case study](https://github.com/domeru369/cyclistic-bike-share-case-study)
 
 This case study was from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago.  I used **BigQuery** to analyze the cyclistic bike share historical data from Jan-Dec 2020 to understand usage patterns and motivations of both casual riders and annual members in order to develop effective marketing strategies focused on converting casual riders into annual members.
@@ -58,6 +61,8 @@ This case study was from the google data analytics capstone course. I assumed th
 
 
 ### Salifort motors project
+
+![image](https://github.com/domeru369/portfolio/blob/main/img/motors.jpg)
 
 [Salifort motors project](https://github.com/domeru369/Salifort-motors-project)
 
