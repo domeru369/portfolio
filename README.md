@@ -2,7 +2,7 @@
 
 #### Technical Skills: Spreadsheets, R, SQL, Tableau, Power Bi, Python
 
-#### Professional Skills: Detail Oriented, Communication skills, Strong Problem Solving skills, Presentation Skills, Organizational skills, Report Writing, Research, Team spirit
+#### Professional Skills: Attention to detail, Effective Communication skills, Strong Problem Solving skills, Presentation Skills, Organizational skills, Research, Team spirit
 
 
 ## Education
@@ -73,7 +73,7 @@ This project was from the advanced google data analytics capstone course.The HR 
 
 
 
-### Contact Information
+## Contact Information
 Mobile Number: +2348152385121 or +2347066273208
 
 Email address: amandaegega1@gmail.com
