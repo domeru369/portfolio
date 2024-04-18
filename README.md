@@ -70,7 +70,7 @@ depends on maximizing the number of annual memberships.  I used **BigQuery** to 
 
 [Salifort motors project](https://github.com/domeru369/Salifort-motors-project)
 
-This project was from the advanced google data analytics capstone course. The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company(**Predictive Modelling**). I built regression model, decision tree model, random forest model and the xgboost model. The random forest model emerged as the champion model.
+This project was from the advanced google data analytics capstone course. The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company (**Predictive Modelling**). I built **logistic regression model**, **decision tree model**, **random forest model** and the **xgboost model**. The random forest model emerged as the champion model.
 
 
 * ### Data Visualization
