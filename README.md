@@ -40,7 +40,7 @@
 
 
 ## Projects 
-### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
+* ### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
 
 ![image](https://github.com/domeru369/portfolio/blob/main/assets/img/fitness.jpg)
 
@@ -50,7 +50,7 @@ This case study was from the google data analytics capstone course. I assumed th
 
 
 
-### Cyclistic bike share case study - How does a bike-share navigate speedy success?
+* ### Cyclistic bike share case study - How does a bike-share navigate speedy success?
 
 ![image](https://github.com/domeru369/portfolio/blob/main/assets/img/cyclist.jpg)
 
@@ -60,7 +60,7 @@ This case study was from the google data analytics capstone course. I assumed th
 
 
 
-### Salifort motors project
+* ### Salifort motors project
 
 ![image](https://github.com/domeru369/portfolio/blob/main/assets/img/motors.png)
 
