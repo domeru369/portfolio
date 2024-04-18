@@ -42,6 +42,7 @@
 ## Projects 
 ### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
 
+![image](https://github.com/domeru369/portfolio/blob/main/img/fitness.jpg)
 [Bellabeat case study](https://github.com/domeru369/Bellabeat-case-study)
 
 This case study was from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Using **R**, I analyzed user data specifically focused on fitness metrics collected through Fitbit fitness tracker dataset(a similarfitness company) in order to gain and translate insights into actionable marketing strategies for Bellabeat.
