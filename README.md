@@ -64,7 +64,7 @@ depends on maximizing the number of annual memberships.  I used **BigQuery** to 
 
 
 
-* ### Salifort motors project
+* ### Salifort motors project- Providing data-driven suggestions for HR
 
 ![image](/assets/img/motors.png)
 
