@@ -45,7 +45,7 @@
 ## Projects 
 * ### Social buzz project
 
-![image](assets/img/social.jpg)
+![image](/assets/img/social.jpg)
 
 [Social buzz project](https://github.com/domeru369/social-buzz-project/blob/main/README.md)
 
