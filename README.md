@@ -43,13 +43,23 @@
 
 
 ## Projects 
+* ### Social buzz project
+
+![image](https://github.com/domeru369/portfolio/blob/main/assets/img/social.jpg)
+
+[Social buzz project](https://github.com/domeru369/social-buzz-project/blob/main/README.md)
+
+This project is from the Accenture North America job simulation. I hypothetically worked with team members to analyze social buzz's data and identify their top 5 content categories with the largest popularity score. Using **Microsoft Excel**, I cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions and I prepared a PowerPoint deck to communicate key insights for the client and internal stakeholders.
+
+
+
 * ### Bellabeat Case Study - How Can a Wellness Technology Company Play It Smart?
 
 ![image](/assets/img/fitness.jpg)
 
 [Bellabeat case study](https://github.com/domeru369/Bellabeat-case-study/blob/main/README.md)
 
-This case study was from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Using **R**, I analyzed user data specifically focused on fitness metrics collected through Fitbit fitness tracker dataset(a similarfitness company) in order to gain and translate insights into actionable marketing strategies for Bellabeat.
+This case study is from the google data analytics capstone course. I assumed the role of a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Using **R**, I analyzed user data specifically focused on fitness metrics collected through Fitbit fitness tracker dataset(a similarfitness company) in order to gain and translate insights into actionable marketing strategies for Bellabeat.
 
 
 
@@ -59,7 +69,7 @@ This case study was from the google data analytics capstone course. I assumed th
 
 [Cyclistic bike share case study](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/README.md)
 
-This case study was from the google data analytics capstone course. Cyclistic is a bike-share company in Chicago. The director of marketing believes the company’s future success
+This case study is from the google data analytics capstone course. Cyclistic is a bike-share company in Chicago. The director of marketing believes the company’s future success
 depends on maximizing the number of annual memberships.  I used **BigQuery** to analyze the cyclistic bike share historical data from Jan-Dec 2020 to understand usage patterns and motivations of both casual riders and annual members in order to develop effective marketing strategies focused on converting casual riders into annual members. I created **visualizations** [here](https://public.tableau.com/app/profile/amanda.egega/viz/Bikesharevisualization/bikesharestory#1)
 
 
@@ -70,7 +80,7 @@ depends on maximizing the number of annual memberships.  I used **BigQuery** to 
 
 [Salifort motors project](https://github.com/domeru369/Salifort-motors-project/blob/main/README.md)
 
-This project was from the advanced google data analytics capstone course. The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company (**Predictive Modelling**). I built logistic regression model, decision tree model, random forest model and the xgboost model. The random forest model emerged as the champion model.
+This project is from the advanced google data analytics capstone course. The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and reduce employee turnover. Using **Python**, my goals were to analyze the data collected by the HR department and build a model that predicts whether or not an employee will leave the company (**Predictive Modelling**). I built logistic regression model, decision tree model, random forest model and the xgboost model. The random forest model emerged as the champion model.
 
 
 * ### Data Visualization
