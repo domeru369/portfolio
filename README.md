@@ -87,7 +87,7 @@ This project is from the advanced google data analytics capstone course. The HR 
   
 ![image](/assets/img/dataviz.jpg)
 
-Data visualization is a powerful way for me to display data so that it can be interpreted easily. I love playing around in Tableau! Check out my vizzes [here](https://public.tableau.com/app/profile/amanda.egega/vizzes)
+Data visualization is a powerful way for me to display data so that it can be interpreted easily. I love playing around in **Tableau!** Check out my vizzes [here](https://public.tableau.com/app/profile/amanda.egega/vizzes)
 
 
 
