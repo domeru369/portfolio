@@ -20,8 +20,7 @@
 * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 * Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
-**Administrative Officer 
-** Federal Airport Authority of Nigeria, Calabar, Cross-River State, Calabar, Nigeria, March 2021 – March 2022**
+**Administrative Officer at Federal Airport Authority of Nigeria, Calabar, Cross-River State, Calabar, Nigeria, March 2021 – March 2022**
 
 * Created and maintained spreadsheets and databases, streamlining the company's administrative processes.
 * Conduct data gathering and analysis from aircraft, including field inspection and documentation.
@@ -33,12 +32,12 @@
   ## Certifications
 * Google Advanced Data Analytics Professional Certificate,  November 2023 - March 2024
   
-  Google
+  Coursera
   
 
 * Google Data Analytics Professional Certificate,   January 2024 - April 2024
 
-  Google
+  Coursera
   
 
 ## Projects 
