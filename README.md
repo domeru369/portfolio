@@ -8,7 +8,7 @@
 ## Education
 * Bachelor of Science Economics, September 2016 - June 2020
                             
-  Babcock University, Ogun State.
+  Babcock University, Ogun State, Nigeria.
 
   Second Class Upper – 4.19
   
@@ -20,7 +20,8 @@
 * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 * Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
-**Administrative Officer at Margaret Ekpo International Airport, FAAN, Calabar, March 2021 – March 2022**
+**Administrative Officer 
+** Federal Airport Authority of Nigeria, Calabar, Cross-River State, Calabar, Nigeria, March 2021 – March 2022**
 
 * Created and maintained spreadsheets and databases, streamlining the company's administrative processes.
 * Conduct data gathering and analysis from aircraft, including field inspection and documentation.
