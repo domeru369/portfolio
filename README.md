@@ -11,20 +11,7 @@
   Babcock University, Ogun State.
 
   Second Class Upper – 4.19
-
-
   
-## Certifications
-* Google Advanced Data Analytics Professional Certificate,  November 2023 - March 2024
-  
-  Google
-  
-
-* Google Data Analytics Professional Certificate,   January 2024 - April 2024
-
-  Google
-
-
 
 ## Professional Experiences  
  **Accenture North America Data Analytics and Visualization Job Simulation on Forage, January 2024**
@@ -35,12 +22,23 @@
 
 **Administrative Officer at Margaret Ekpo International Airport, FAAN, Calabar, March 2021 – March 2022**
 
-* Provide administrative support to the commercial department at the airport.
+* Created and maintained spreadsheets and databases, streamlining the company's administrative processes.
 * Conduct data gathering and analysis from aircraft, including field inspection and documentation.
-* Assist in ledger updating/recording, report preparation on expenses and office budgets.
-* Assist in managing and organizing departmental files, documents, and records.
-* Coordinate meetings, appointments, and travel arrangements for commercial department staff.
+* Successfully managed physical and digital filing systems that resulted in a higher degree of organization and accuracy of document.
+* Maintained a detailed and accurate calendar, ensuring all deadlines, appointments, and meetings were efficiently managed, resulting in improved time management for the department.
+* Enhanced the customer service experience by addressing inquiries / complaints and effectively referring customers to the appropriate team members.
+  
 
+  ## Certifications
+* Google Advanced Data Analytics Professional Certificate,  November 2023 - March 2024
+  
+  Google
+  
+
+* Google Data Analytics Professional Certificate,   January 2024 - April 2024
+
+  Google
+  
 
 ## Projects 
 * ### Social buzz project
