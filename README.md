@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Spreadsheets, R, SQL, Python, Visualization tools(Tableau, Power Bi)
+#### Technical Skills: Spreadsheets, R, SQL, Python, Visualization tools (Tableau, Power BI)
 
 #### Professional Skills: Attention to detail, Effective Communication skills, Strong Problem Solving skills, Presentation Skills, Organizational skills, Research, Team spirit
 
