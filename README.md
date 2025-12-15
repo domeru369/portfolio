@@ -14,11 +14,12 @@
   
 
 ## Professional Experiences  
- **Accenture North America Data Analytics and Visualization Job Simulation on Forage, January 2024**
+ ** Research Analyst Intern at Enterprisengr, March 2025 - Present**
 
-* Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
-* Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
-* Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
+* Conducted in-depth online research to collect data on economic trends, policy developments, and industry dynamics in Nigeria and globally.
+* Analyzed macroeconomic indicators and regulatory changes to support evidence-based policy and advocacy reports.
+* Prepared clear, data-driven summaries and insights for internal use and external publications.
+* Monitored credible sources such as CBN, NBS, IMF, and World Bank for up-to-date statistics and policy shifts.
 
 **Administrative Officer at Federal Airport Authority of Nigeria, Calabar, Cross-River State, Calabar, Nigeria, March 2021 – March 2022**
 
