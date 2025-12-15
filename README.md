@@ -14,7 +14,7 @@
   
 
 ## Professional Experiences  
- ** Research Analyst Intern at Enterprisengr, March 2025 - Present**
+**Research Analyst Intern at Enterprisengr, March 2025 - Present**
 
 * Conducted in-depth online research to collect data on economic trends, policy developments, and industry dynamics in Nigeria and globally.
 * Analyzed macroeconomic indicators and regulatory changes to support evidence-based policy and advocacy reports.
