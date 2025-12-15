@@ -92,7 +92,7 @@ Data visualization is a powerful way for me to display data so that it can be in
 
 
 ## Contact Information
-Mobile Number: +2348152385121 or +2347066273208
+Mobile Number: +2347066273208 or +2348152385121
 
 Email address: amandaegega1@gmail.com
 
